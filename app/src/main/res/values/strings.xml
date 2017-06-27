@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="user_name">Nazwa użytkownika</string>
+    <string name="user_details">Szczegóły użytkownika</string>
+    <string name="users">Użytkownicy</string>
+    <string name="visit_profile">Odwiedź profil</string>
+    <string name="send_email">Wyślij email</string>
+    <string name="followers">obserwujących</string>
+</resources>
